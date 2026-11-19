@@ -8,9 +8,11 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
+
 It is a seven segment decoder
 
 ## How to test
+
 From 0 to 9
 
 ## External hardware
